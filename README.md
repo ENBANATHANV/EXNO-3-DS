@@ -31,8 +31,23 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![Screenshot 2025-04-18 103946](https://github.com/user-attachments/assets/1a0d1ff7-bf89-4442-80a0-9603672e160a)
+![Screenshot 2025-04-18 104011](https://github.com/user-attachments/assets/9dd79490-ce45-4d54-8d7d-c0c8ac05d4d3)
+![Screenshot 2025-04-18 104028](https://github.com/user-attachments/assets/c7ba7684-354a-49c9-a533-474b1e416df1)
+![Screenshot 2025-04-18 104051](https://github.com/user-attachments/assets/5728e709-7d9e-40ee-b590-d45e19272629)
+![Screenshot 2025-04-18 104105](https://github.com/user-attachments/assets/fa983ad1-951e-4f7c-8561-25f484bb7d4b)
+![Screenshot 2025-04-18 104123](https://github.com/user-attachments/assets/5c1916b6-ab41-4725-b345-c2ad7053e674)
+![Screenshot 2025-04-18 104139](https://github.com/user-attachments/assets/a029a144-4e63-4838-8d1c-08140b2344eb)
+![Screenshot 2025-04-18 104148](https://github.com/user-attachments/assets/586688bf-5eb7-4b00-b6ac-33187aed5734)
+![Screenshot 2025-04-18 104202](https://github.com/user-attachments/assets/14f8d388-d7be-4273-b271-8bd2cc4b3625)
+![Screenshot 2025-04-18 104304](https://github.com/user-attachments/assets/7a812456-8a78-4e0d-9f42-5988a8e2d845)
+![Screenshot 2025-04-18 104334](https://github.com/user-attachments/assets/054f3d7c-59d2-43a2-86ee-d37963a2034f)
+![Screenshot 2025-04-18 104420](https://github.com/user-attachments/assets/d26875ee-1d59-4776-9af5-3b39b50e8621)
+![Screenshot 2025-04-18 104430](https://github.com/user-attachments/assets/1dddde22-a853-44e8-9aa8-0f03381c161d)
+![Screenshot 2025-04-18 104439](https://github.com/user-attachments/assets/8b46b93e-5a0d-40e0-9988-5a3826934cef)
+
+    
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus to read the given data and perform Feature Encoding and Transformation process and save the data to a file has successfully executed
 
        
